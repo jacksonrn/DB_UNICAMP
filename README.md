@@ -48,3 +48,5 @@ Popular cada uma das tabelas de acordo com o modelo de dados (colunas e tipo de 
 ·        Compilar todas as informações coletadas ao longo do projeto em um relatório gerencial abrangente.
 ·        Incluir análises sobre as escolhas de campos, otimizações do banco de dados e desenvolvimento dos KPIs.
 ·        Apresentar os resultados de forma clara e objetiva, destacando insights e recomendações para a gestão estratégica do call center.
+
+https://github.com/jacksonwsup/DB_UNICAMP/blob/jacksonwsup/DiagramaV2.png
